@@ -2282,3 +2282,7 @@ button,
     border-top: 0;
     margin-top: 0;
     padding-top: 0; }
+
+@media screen and (min-width: 1400px) {
+  .content {
+    padding-right: 104px; } }
