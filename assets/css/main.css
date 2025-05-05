@@ -2286,3 +2286,8 @@ button,
 @media screen and (min-width: 1400px) {
   #title {
     padding-right: 104px; } }
+
+.invited br {
+  vertical-align: top;
+  line-height: 40px;
+}
