@@ -2287,7 +2287,6 @@ button,
   #title {
     padding-right: 104px; } }
 
-.invited br {
-  vertical-align: top;
+.small-par {
   margin-bottom: 15px;
 }
